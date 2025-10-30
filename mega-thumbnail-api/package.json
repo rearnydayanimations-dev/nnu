@@ -1,0 +1,8 @@
+{
+  "name": "mega-thumbnail-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^23.5.0"
+  }
+}
